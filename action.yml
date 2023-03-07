@@ -1,5 +1,5 @@
-name: 'AWS SAM Deploy'
-description: 'Deploys AWS SAM Stack'
+name: 'AWS SAM Deploy (Alpine 3.15)'
+description: 'Deploys AWS SAM Stack with Alpine 3.15 Dockerfile'
 author: 'Jan Alfred Richter <falnyr@gmail.com>'
 branding:
   icon: 'upload-cloud'
